@@ -30,6 +30,8 @@ body {
   background-size: cover; /*cobre todo espaço em branco com a imagem 
   */
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
+
 }
 
 body * {
